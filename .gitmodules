@@ -1,0 +1,4 @@
+[submodule "third_party/dlup"]
+	path = third_party/dlup
+	url = git@github.com:NKI-AI/dlup.git
+	branch = hissl
